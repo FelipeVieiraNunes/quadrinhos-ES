@@ -23,11 +23,11 @@ Este repositório contém os arquivos e o planejamento para o desenvolvimento de
       
 * **Ato 2: A Confrontação**
   
-    * **Cena 3:** Elara tenta decifrar a origem e o significado do sinal, enfrentando a descrença do comando na Terra, que a considera exausta e propensa a erros.
+    * **Cena 1:** Elara tenta decifrar a origem e o significado do sinal, enfrentando a descrença do comando na Terra, que a considera exausta e propensa a erros.
       
-    * **Cena 4:** O sinal fica mais forte e claro, revelando ser uma mensagem complexa. Elara precisa desviar a energia de sistemas vitais da estação para conseguir captá-lo por completo, colocando-se em risco.
+    * **Cena 2:** O sinal fica mais forte e claro, revelando ser uma mensagem complexa. Elara precisa desviar a energia de sistemas vitais da estação para conseguir captá-lo por completo, colocando-se em risco.
 * **Ato 3: A Resolução**
   
-    * **Cena 5:** Elara consegue traduzir a parte central da mensagem: um simples "Olá". Ao mesmo tempo, um alarme de falha crítica soa na estação devido ao desvio de energia.
+    * **Cena 1:** Elara consegue traduzir a parte central da mensagem: um simples "Olá". Ao mesmo tempo, um alarme de falha crítica soa na estação devido ao desvio de energia.
       
-    * **Cena 6:** O painel final mostra o rosto de Elara, iluminado pelas luzes de emergência vermelhas da estação, com um sorriso de pura maravilha e alegria. Ela não está mais sozinha.
+    * **Cena 2:** O painel final mostra o rosto de Elara, iluminado pelas luzes de emergência vermelhas da estação, com um sorriso de pura maravilha e alegria. Ela não está mais sozinha.
