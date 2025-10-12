@@ -1,0 +1,99 @@
+### **Projeto História em Quadrinhos: O Último Sinal**
+
+**Equipe**
+
+* **Roteirista:** Josvan
+* **Desenhista:** Felipe
+* **Arte-finalista:** Ananda
+
+**1. Descrição do Projeto**
+
+Este repositório contém os arquivos e o planejamento para o desenvolvimento de uma história em quadrinhos digital de ficção científica. A história, intitulada "O Último Sinal", explora temas de isolamento, esperança e a busca por vida fora da Terra.
+
+**2. Objetivos**
+
+* **Principal:** Criar uma narrativa curta e emocionante, com uma arte que transmita a vastidão e a solidão do espaço.
+* **Secundário:** Praticar a colaboração em um projeto criativo utilizando as ferramentas do GitHub, como branches e pull requests.
+* **Técnico:** Utilizar softwares de ilustração digital (como Krita e Clip Studio Paint) para criar as páginas da HQ.
+
+**3. Estrutura Inicial da História**
+
+* **Ato 1: A Apresentação**
+    * **Cena 1:** Apresentação da Dra. Elara, uma astrônoma solitária na estação espacial "Vigia", monitorando o silêncio do cosmos. Mostramos sua rotina e a sensação de isolamento.
+    * **Cena 2:** Um sinal fraco e anômalo é detectado pelos sensores da estação. Inicialmente, parece ser apenas ruído, mas ele tem um padrão matemático.
+* **Ato 2: A Confrontação**
+    * **Cena 1:** Elara tenta decifrar a origem e o significado do sinal, enfrentando a descrença do comando na Terra, que a considera exausta e propensa a erros.
+    * **Cena 2:** O sinal fica mais forte e claro, revelando ser uma mensagem complexa. Elara precisa desviar a energia de sistemas vitais da estação para conseguir captá-lo por completo, colocando-se em risco.
+* **Ato 3: A Resolução**
+    * **Cena 1:** Elara consegue traduzir a parte central da mensagem: um simples "Olá". Ao mesmo tempo, um alarme de falha crítica soa na estação devido ao desvio de energia.
+    * **Cena 2:** O painel final mostra o rosto de Elara, iluminado pelas luzes de emergência vermelhas da estação, com um sorriso de pura maravilha e alegria. Ela não está mais sozinha.
+
+**4. Personagens**
+
+* **Dra. Elara Vance:**
+    * **Descrição:** Uma mulher na casa dos 40 anos, com cabelo prático e um olhar cansado, mas que ainda retém uma faísca de curiosidade científica. Suas roupas são funcionais, um macacão padrão da agência espacial.
+    * **Personalidade:** Resiliente, introvertida e extremamente inteligente. Após mais de 700 dias sozinha, ela fala mais consigo mesma do que com o comando. Sua determinação é sua maior força e também seu maior risco.
+    * **Arco:** Passa de um estado de resignação solitária para uma redescoberta da esperança e da alegria, mesmo em face de um perigo mortal.
+
+* **Comando da Terra (Voz):**
+    * **Descrição:** Representado apenas por uma voz calma e profissional (ou um holograma granulado e impessoal) vinda dos alto-falantes da estação. Pode ser personificado pelo Comandante Kaito.
+    * **Função:** Serve como o principal antagonista, representando a burocracia, o ceticismo e a preocupação protocolar. Ele não é mau, apenas representa a "razão" contra a "fé" de Elara.
+
+**5. Ambiente e Estilo Visual**
+
+* **A Estação Espacial "Vigia":**
+    * **Design:** Funcional e claustrofóbico. A tecnologia é avançada, mas parece vivida e um pouco desgastada. Painéis, cabos expostos e telas holográficas compõem o ambiente. O elemento central é a grande cúpula de observação, que serve como uma janela constante para a opressora imensidão do espaço.
+    * **Atmosfera:** O silêncio e a solidão devem ser quase palpáveis. Pequenos detalhes, como um terrário com uma única planta ou fotos antigas presas a um painel, humanizam o espaço e ressaltam o isolamento de Elara.
+
+* **Estilo de Arte:**
+    * **Traço (Felipe):** Um traço limpo e detalhado, focado em expressões faciais e na tecnologia do ambiente. A arte deve ser capaz de transmitir emoção em silêncio.
+    * **Arte-final (Ananda):** Linhas precisas que definam bem os planos e as texturas, dando peso e realismo à estação e aos equipamentos.
+    * **Paleta de Cores:** Predominância de azuis frios, cinzas metálicos e o preto profundo do espaço para acentuar a solidão. O sinal anômalo pode ser representado por uma cor quente e vibrante (laranja ou dourado), criando um contraste visual. No final, o vermelho pulsante das luzes de emergência deve dominar a cena, refletindo tanto o perigo quanto a paixão da descoberta.
+
+**6. Roteiro Detalhado por Páginas (Exemplo para uma HQ de 6 páginas)**
+
+* **Página 1:** Foco na rotina e solidão.
+    * **Painel 1 (Splash):** Visão externa da "Vigia" flutuando sozinha no espaço.
+    * **Painel 2-4:** Sequência mostrando Elara em sua rotina: tomando café, verificando painéis que não mostram nada, cuidando de sua planta. Expressão de cansaço e resignação.
+
+* **Página 2:** A detecção.
+    * **Painel 1:** Close-up em um monitor com gráficos de rotina.
+    * **Painel 2:** Um pequeno "blip" aparece no monitor. Um som sutil (onomatopeia: *bip*).
+    * **Painel 3:** Elara se aproxima da tela, curiosa.
+    * **Painel 4:** Close-up do rosto dela, com a sobrancelha arqueada. Ela amplia o sinal, revelando um padrão matemático sob o ruído.
+
+* **Página 3:** O confronto.
+    * **Painel 1-2:** Elara discute com a voz do Comando, que aparece como um holograma estático. Vemos a frustração dela contra a calma impessoal dele.
+    * **Painel 3:** O holograma se desliga. Elara fica sozinha, olhando para a tela com raiva e determinação.
+    * **Painel 4:** Mão de Elara pairando sobre um painel de controle manual com um aviso de "PERIGO: SISTEMAS VITAIS".
+
+* **Página 4:** O sacrifício.
+    * **Painel 1:** Elara aciona o desvio de energia.
+    * **Painel 2-3:** As luzes da estação piscam e diminuem. Alarmes amarelos começam a acender. A estação treme (onomatopeia: *VRRRMM*).
+    * **Painel 4:** No monitor principal, o sinal agora está nítido, uma onda complexa e bela. O rosto de Elara está focado, ignorando o caos.
+
+* **Página 5:** A resolução.
+    * **Painel 1 (Grande):** ALARMES VERMELHOS disparam (onomatopeia: *VROOOM! VROOOM!*).
+    * **Painel 2:** O programa de tradução termina a análise.
+    * **Painel 3 (Splash de Página Inteira):** Um painel quase silencioso. No centro, o monitor exibe a única palavra: **Olá**. Elara está de costas para o leitor, olhando para a tela, enquanto as luzes de emergência a banham de vermelho.
+
+* **Página 6:** O sorriso.
+    * **Painel 1:** Close extremo nos olhos de Elara, arregalados, refletindo a palavra na tela.
+    * **Painel 2:** Uma única lágrima escorre por sua bochecha.
+    * **Painel 3 (Painel Final, Grande):** Close-up no rosto de Elara. Ela tem um sorriso radiante, de pura felicidade e assombro, iluminada pelo brilho vermelho caótico da estação. O fim.
+
+**7. Fluxo de Trabalho (Workflow)**
+
+1.  **Etapa 1: Roteiro (Josvan)** - Finalizar o roteiro detalhado, com descrição de painéis e diálogos (ou ausência deles).
+2.  **Etapa 2: Esboços e Thumbnails (Felipe)** - Criar esboços rápidos das páginas para definir a composição e o fluxo da narrativa.
+3.  **Etapa 3: Desenho a Lápis (Felipe)** - Desenvolver os esboços em desenhos finalizados, detalhando personagens e cenários.
+4.  **Etapa 4: Arte-final (Ananda)** - Limpar e finalizar os desenhos com tinta digital, definindo as linhas finais.
+5.  **Etapa 5: Cores e Letras (Equipe)** - Aplicação da paleta de cores definida e inserção de onomatopeias e textos.
+6.  **Etapa 6: Revisão Final** - Verificação final de todos os elementos antes da publicação.
+
+**8. Cronograma Proposto**
+
+* **Semana 1:** Finalização do Roteiro e aprovação dos Esboços/Thumbnails.
+* **Semana 2:** Conclusão do Desenho a Lápis de todas as páginas.
+* **Semana 3:** Conclusão da Arte-final.
+* **Semana 4:** Finalização das Cores, Letras e Revisão Final do projeto.
